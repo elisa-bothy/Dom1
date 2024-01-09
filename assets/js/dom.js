@@ -7,3 +7,6 @@ const a2 = li2.children[0];
 title.textContent = "Papa";
 a1.textContent = `Papa est en bas`;
 a2.textContent = "Qui fait du nougat";
+
+a1.href = "#papa";
+a2.href = "elsewhere#bas";
