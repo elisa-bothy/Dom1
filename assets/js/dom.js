@@ -1,4 +1,4 @@
-const title = document.querySelector("title")[0];
+const title = document.querySelector("title");
 const li1 = document.getElementsByTagName("li")[0];
 const li2 = document.getElementsByTagName("li")[1];
 const a1 = li1.children[0];
